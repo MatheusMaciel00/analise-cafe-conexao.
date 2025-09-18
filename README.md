@@ -57,6 +57,5 @@ Com base na análise, a recomendação é **focar os investimentos de marketing 
 
 ## ✒️ Autor
 
-* **[Seu Nome]**
-* **LinkedIn:** [https://www.linkedin.com/in/seu-linkedin/](https://www.linkedin.com/in/seu-linkedin/)
-* **GitHub:** [https://github.com/SEU-USUARIO](https://github.com/SEU-USUARIO)
+* **Matheus Pereira Maciel **
+
