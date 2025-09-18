@@ -1,6 +1,6 @@
-<img width="1000" height="600" alt="grafico_margem_de_lucro" src="https://github.com/user-attachments/assets/90768c14-268d-435d-ad48-0cfcdc0eb8e2" /># 📊 Análise de Vendas - Cafeteria Café & Conexão
+# 📊 Análise de Vendas - Cafeteria Café & Conexão
 
-![Python]()
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)
 ![Libraries](https://img.shields.io/badge/Libraries-Pandas%20%7C%20Matplotlib-orange.svg)
 
 Análise de dados de vendas do último semestre da rede de cafeterias "Café & Conexão" para extrair insights e direcionar a estratégia de marketing da empresa.
@@ -43,9 +43,10 @@ A tabela final com todos os cálculos pode ser vista abaixo:
 
 **1. Lucro Bruto:** A categoria de **Cafés Especiais** é a que mais gera lucro absoluto para a empresa, sendo o principal motor financeiro.
 
+![Gráfico de Lucro Bruto](grafico_lucro_bruto.png)
 
-<img width="1000" height="600" alt="grafico_lucro_bruto" src="https://github.com/user-attachments/assets/143e14f5-d406-45d9-aa8e-15f7d0d7240b" />
-[analise-cafe-conexao.ipynb](https://github.com/user-attachments/files/22413026/analise-cafe-conexao.ipynb)
+**2. Margem de Lucro:** As categorias de **Doces e Sobremesas** e **Cafés Especiais** são as mais eficientes, convertendo 75% de sua receita em lucro. Salgados, apesar do alto volume de vendas, possui uma margem consideravelmente menor.
+
 ![Gráfico de Margem de Lucro](grafico_margem_de_lucro.png)
 
 ## 🎯 Recomendação Estratégica
